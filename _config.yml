@@ -1,0 +1,55 @@
+# Site settings
+title: MİRİVİX
+email: murvetuslu94@gmail.com
+url: https://example.github.io
+description: "Mürüvet USLU Kişisel Web Sitesi"
+skills: "Developer - Vulnerability Assessment - Cyber Security Researcher"
+meta_author: USLU MÜRÜVET
+
+# Google webmaster tools
+google_verify:
+
+# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+bing_verify:
+
+# Contact form: comment the line below if you want to stick with the default PHP contact form
+contact: static
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: 18bc9c #80B3FF
+  primary-rgb: "24,288,156" #"128,179,255"
+  secondary: 2c3e50 #FD6E8A
+  secondary-dark: 233140 #A2122F
+
+# Footer settings
+footer:
+  copyleft: Mürüvet Uslu
+  location: İLETİŞİM
+  social: SOSYAL MEDYA
+  credits: REKLAM
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: https://twitter.com/MuruvetUslu
+  - title: facebook
+    url: https://www.facebook.com/murvet.uslu.5
+  - title: stack-overflow
+    url: 
+  - title: bitbucket
+    url: 
+  - title: github
+    url: https://github.com/murvetuslu
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: İstanbul-Eyüp
+  - line: Sakarya-Serdivan
+
+# Credits content
+credits:  Bu alana reklam verilebilir.
+
+# Build settings
+markdown: kramdown
+permalink: pretty

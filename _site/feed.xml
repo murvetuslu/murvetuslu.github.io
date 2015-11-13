@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MİRİVİX</title>
+    <description>Mürüvet USLU Kişisel Web Sitesi</description>
+    <link>https://example.github.io/</link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Fri, 13 Nov 2015 17:18:20 +0200</pubDate>
+    <lastBuildDate>Fri, 13 Nov 2015 17:18:20 +0200</lastBuildDate>
+    <generator>Jekyll v3.0.0</generator>
+    
+      <item>
+        <title>Linux Komutları</title>
+        <description>A&#39;dan Z&#39;ye Linux Komutları isimli ilk blog yazımda Linux&#39;u kullanmanızda size faydalı olacak bir döküman hazırlamak istedim. Linux&#39;a geçmeden önce bir çoğumuz Windows işletim sistemini kullandığımız için Linux&#39;ta bazı zorluklar yaşıyoruz. İlk zorluk olarak da terminal kullanımı karşımıza çıkıyor. Linux&#39;u benimsememiz için terminal kullanımına hakim olmamız gerekmekte. Çünkü neredeyse tüm işlemlerinizi terminal üzerinden gerçekleştireceksiniz. Terminalde komutları sürekli olarak kullanmadığınız zaman ise işlevlerini unutabilirsiniz. Ben de bu komutları sizler için bir kitap haline getirdim. Yazabildiğim kadar A&#39;dan Z&#39;ye çoğu komutu yazmaya çalıştım. Gitbook içerisinde oluşturduğum bu kitaba &lt;a href=&quot;https://www.gitbook.com/book/murvetuslu/a-z-linux-komutlari/details&quot; target=&quot;_blank&quot;&gt;buradan&lt;/a&gt; ulaşabilirsiniz. Keyifli okumalar diler, önerilerinizi beklerim. :)</description>
+        <pubDate>Fri, 13 Nov 2015 00:00:00 +0200</pubDate>
+        <link>https://example.github.io/2015/11/13/linux-komutlar%C4%B1/</link>
+        <guid isPermaLink="true">https://example.github.io/2015/11/13/linux-komutlar%C4%B1/</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
