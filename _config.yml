@@ -24,21 +24,17 @@ color:
 
 # Footer settings
 footer:
-  copyleft: Mürüvet Uslu
+  copyleft: Mürüvet USLU
   location: İLETİŞİM
   social: SOSYAL MEDYA
   credits: REKLAM
 
-# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, bitbucket, stack-overflow etc.)
 social:
-  - title: twitter
-    url: https://twitter.com/MuruvetUslu
   - title: facebook
     url: https://www.facebook.com/murvet.uslu.5
-  - title: stack-overflow
-    url: 
-  - title: bitbucket
-    url: 
+  - title: twitter
+    url: https://twitter.com/MuruvetUslu
   - title: github
     url: https://github.com/murvetuslu
 
